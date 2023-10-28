@@ -1,0 +1,9 @@
+/* spacing */
+
+table,
+tbody,
+tr,
+td,
+th {
+  border: #222 1px solid;
+}
